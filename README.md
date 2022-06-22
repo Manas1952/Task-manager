@@ -11,5 +11,9 @@ Basically, This Application Provides **Restful-APIs** to Create / Read / Update 
 > https://task-manager-manas.herokuapp.com/
 > ```
 
+#### [Documentation for API](/DOCS.md)
+
+<br>
+
 #### Contibutors
 > Manas Purohit
