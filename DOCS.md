@@ -622,7 +622,7 @@ This will Create Task for Current User
 method: ```POST```
 
 > ```
-> https://task-manager-manas.herokuapp.com/me/task
+> https://task-manager-manas.herokuapp.com/task
 > ```
 <br>
 
@@ -688,7 +688,7 @@ This will read all tasks of Current User
 method: ```GET```
 
 > ```
-> https://task-manager-manas.herokuapp.com/me/tasks
+> https://task-manager-manas.herokuapp.com/tasks
 > ```
 <br>
 
@@ -758,7 +758,7 @@ This will Read indivudual Task of Current User
 method: ```GET```
 
 > ```
-> https://task-manager-manas.herokuapp.com/me/tasks/:id
+> https://task-manager-manas.herokuapp.com/tasks/:id
 > ```
 <br>
 
@@ -834,7 +834,7 @@ This will Update Task details for Current User.
 method: ```PATCH```
 
 > ```
-> https://task-manager-manas.herokuapp.com/me/tasks/:id
+> https://task-manager-manas.herokuapp.com/tasks/:id
 > ```
 <br>
 
@@ -918,7 +918,7 @@ This will Delete task for Current User.
 method: ```DELETE```
 
 > ```
-> https://task-manager-manas.herokuapp.com/me/tasks/:id
+> https://task-manager-manas.herokuapp.com/tasks/:id
 > ```
 <br>
 
