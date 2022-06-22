@@ -2,7 +2,7 @@
 
 Server-URL:
 
-        https://dgamer-task-tracker-api.herokuapp.com 
+        https://task-manager-manas.herokuapp.com/ 
 
 Guide:
 
@@ -31,7 +31,7 @@ This will Create a User Account
 method: ```POST```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/signup
+> https://task-manager-manas.herokuapp.com/signup
 > ```
 <br>
 
@@ -88,7 +88,7 @@ This will Login into User Account
 method: ```POST```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/login
+> https://task-manager-manas.herokuapp.com/login
 > ```
 <br>
 
@@ -145,7 +145,7 @@ This will Logout from User Account
 method: ```POST```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/logout
+> https://task-manager-manas.herokuapp.com/logout
 > ```
 <br>
 
@@ -228,7 +228,7 @@ This will Read User Account Data
 method: ```GET```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me
+> https://task-manager-manas.herokuapp.com/me
 > ```
 <br>
 
@@ -278,7 +278,7 @@ This will Update User Account or Change User Account Details
 method: ```PATCH```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me
+> https://task-manager-manas.herokuapp.com/me
 > ```
 <br>
 
@@ -388,7 +388,7 @@ This will Upload Profile Picture for Current User.
 method: ```POST```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/avatar
+> https://task-manager-manas.herokuapp.com/me/avatar
 > ```
 <br>
 
@@ -464,7 +464,7 @@ This will Delete Profile Picture for Current User.
 method: ```DELETE```
 
 >```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/avatar
+> https://task-manager-manas.herokuapp.com/me/avatar
 >```
 <br>
 
@@ -500,7 +500,7 @@ This will Read Profile Picture of Current User.
 method: ```GET```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/avatar
+> https://task-manager-manas.herokuapp.com/me/avatar
 > ```
 <br>
 
@@ -565,7 +565,7 @@ This will Delete User Account
 method: ```DELETE```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me
+> https://task-manager-manas.herokuapp.com/me
 > ```
 <br>
 
@@ -622,7 +622,7 @@ This will Create Task for Current User
 method: ```POST```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/task
+> https://task-manager-manas.herokuapp.com/me/task
 > ```
 <br>
 
@@ -688,7 +688,7 @@ This will read all tasks of Current User
 method: ```GET```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/tasks
+> https://task-manager-manas.herokuapp.com/me/tasks
 > ```
 <br>
 
@@ -758,7 +758,7 @@ This will Read indivudual Task of Current User
 method: ```GET```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/tasks/:id
+> https://task-manager-manas.herokuapp.com/me/tasks/:id
 > ```
 <br>
 
@@ -834,7 +834,7 @@ This will Update Task details for Current User.
 method: ```PATCH```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/tasks/:id
+> https://task-manager-manas.herokuapp.com/me/tasks/:id
 > ```
 <br>
 
@@ -918,7 +918,7 @@ This will Delete task for Current User.
 method: ```DELETE```
 
 > ```
-> https://dgamer-task-tracker-rest-api.herokuapp.com/me/tasks/:id
+> https://task-manager-manas.herokuapp.com/me/tasks/:id
 > ```
 <br>
 
