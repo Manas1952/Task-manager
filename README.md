@@ -1,5 +1,5 @@
 # Task-manager
-A complete NodeJS CRUD Application which will Keep track of Tasks for Users.
+A complete NodeJS CRUD Application which will Keep track of Tasks for Users using **API** calls.
 
 ## Overview
 This **NodeJS Application** contains **Restful-APIs** for Task-Tracker with **User Authentication** and **MongoDB Database** Connection.
